@@ -1,3 +1,5 @@
+# Blinking Squares
+
 Blinking_Square is a game which is developed in C programming. It includes C graphics as well as fundamental C programming concepts to enhance the playing experiance
 
 Instructions to play the game:
