@@ -11,4 +11,4 @@ Blinking_Square is a game which is developed in C programming. It includes C gra
 
 ## License
 
-MIT 
+MIT © 
